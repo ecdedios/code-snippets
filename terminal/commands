@@ -5,3 +5,4 @@ py -m spacy download en_core_web_sm
 py -m spacy download en_core_web_md
 py -m nltk.downloader all
 py -m pip install apyori
+py -m pip install networkx
