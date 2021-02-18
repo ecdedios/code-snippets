@@ -1,0 +1,7 @@
+py -m pip install pandas
+py -m pip install numpy scipy notebook matplotlib plotly seaborn spacy nltk
+py -m pip install --upgrade pip
+py -m spacy download en_core_web_sm
+py -m spacy download en_core_web_md
+py -m nltk.downloader all
+py -m pip install apyori
