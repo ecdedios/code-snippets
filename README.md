@@ -1,6 +1,27 @@
 # Dd's Code Snippets
 
-> A simple repo to hold all my favorite code snippets for quick reference.
+> A simple repo to hold all my favorite code snippets and templates for quick reference.
+
+## Data
+
+https://github.com/ecdedios/...
+
+## Usage
+
+Some technologies used:
+
+- OpenAI
+- Langchain
+- Neo4j
+- NetworkX
+- Selenium
+- Beautiful Soup
+
+To see the project in action, open the notebooks.
+
+## References
+
+...
 
 ## Meta
 
@@ -20,4 +41,4 @@ Distributed under the MIT license. See `LICENSE` for more information.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-2020
+2024
