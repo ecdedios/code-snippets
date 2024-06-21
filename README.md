@@ -10,7 +10,7 @@ Distributed under the MIT license. See `LICENSE` for more information.
 
 - LinkedIn: [in/ecdedios/](https://www.linkedin.com/in/ecdedios/)
 - Resumé: [http://ednalyn.com](http://ednalyn.com)
-- Data Science Nerd Blog[https://datasciencenerd.us](https://datasciencenerd.us)
+- Data Science Nerd Blog [https://datasciencenerd.us](https://datasciencenerd.us)
 
 ## Contributing
 
