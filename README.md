@@ -2,10 +2,6 @@
 
 > A simple repo to hold all my favorite code snippets and templates for quick reference.
 
-## Data
-
-https://github.com/ecdedios/...
-
 ## Usage
 
 Some technologies used:
@@ -18,10 +14,6 @@ Some technologies used:
 - Beautiful Soup
 
 To see the project in action, open the notebooks.
-
-## References
-
-...
 
 ## Meta
 
